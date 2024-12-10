@@ -5,45 +5,45 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Sombrero vueltiao con la bandera de Colombia, 23 vueltas',
-            precio: 250000,
-            imagen: 'img/feature_prod_01.jpg',
-            categoria: 'sombreros'
+            nombre: 'Ropa formal para Damas y Caballeros',
+            precio: 90000,
+            imagen: 'img/Sección3.png',
+            categoria: 'Ropa Formal'
         },
         {
             id: 2,
-            nombre: 'Sombrero vueltiao-machiembriao',
-            precio: 150000,
-            imagen: 'img/sombrero4.jpg',
-            categoria: 'sombreros'
+            nombre: 'Ropa Informal para Damas y Caballeros',
+            precio: 70000,
+            imagen: 'img/Sección4.png',
+            categoria: 'Ropa Informal'
         },
         {
             id: 3,
-            nombre: 'Sombrero vueltiao colombiano 15 vueltas tricolor',
-            precio: 250000,
-            imagen: 'img/feature_prod_02.jpg',
-            categoria: 'sombreros'
+            nombre: 'Trajes Formales para Caballeros',
+            precio: 70000,
+            imagen: 'img/Sección2.png',
+            categoria: 'Trajes Formales para Caballeros'
         },
         {
             id: 4,
-            nombre: 'Mochila wayuu azul 6',
-            precio: 120000,
-            imagen: 'img/shop_04.jpg',
-            categoria: 'mochilas'
+            nombre: 'Ropa Deportiva para Damas',
+            precio: 60000,
+            imagen: 'img/Sección1.png',
+            categoria: 'Ropa Deportiva'
         },
         {
             id: 5,
-            nombre: 'Bolso en fique',
-            precio: 120000,
-            imagen: 'img/shop_03.jpg',
-            categoria: 'bolsos'
+            nombre: 'Ropa Deportiva para Caballeros',
+            precio: 60000,
+            imagen: 'img/Seccion5.png',
+            categoria: 'Ropa Deportiva'
         },
         {
             id: 6,
-            nombre: 'Hamaca',
-            precio: 120000,
-            imagen: 'img/category_img_02.jpg',
-            categoria: 'hamacas'
+            nombre: 'Ropa Formal e Informal para Damas y Caballeros',
+            precio: 80000,
+            imagen: 'img/Seccion6.png',
+            categoria: 'Ropa Formal e Informal'
         }
     ];
 
